@@ -1,2 +1,2 @@
-# PokemonAnalysis
-I was given a dataset of pokemon and their attributes. I was able to generate some cool visualizations out of it. 
+# MiniProjects
+Collection of works done as personal mini projects or for DSI 
